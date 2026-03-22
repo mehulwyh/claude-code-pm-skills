@@ -1,4 +1,4 @@
-# Claude Code PM Skills
+# Claude Code PM Skillss
 
 20 production-ready skills for Product Managers using Claude Code.
 
